@@ -1,7 +1,7 @@
 # 🎧 Spotify ETL Pipeline with AWS, Snowflake & Power BI
 This project is an end-to-end ETL (Extract, Transform, Load) pipeline built using **AWS Lambda**, **S3**, **Snowflake**, and **Power BI**, to analyze the **Top 50 Globally Popular Songs on Spotify** daily. It automates the process of data extraction, transformation, storage, and visualization using modern cloud-native tools.
 ![SAmple UI](images/architecture.jpg "Sample")
-![SAmple UI](images/power_BI5437 "Sample")
+![UI_2](images/power_BI5437 "Sample_1")
 
 ---
 
